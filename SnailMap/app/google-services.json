@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397632159340",
+    "firebase_url": "https://snail-detection.firebaseio.com",
+    "project_id": "snail-detection",
+    "storage_bucket": "snail-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397632159340:android:6b86fe3a51e388a2356249",
+        "android_client_info": {
+          "package_name": "com.example.snailmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397632159340-dfap0k003v9iqq6hputobudifctpqffp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgHfFiysPViVNTXps3diN6VlWkgl1OWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397632159340-dfap0k003v9iqq6hputobudifctpqffp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
